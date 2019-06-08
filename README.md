@@ -26,7 +26,7 @@ The repository consists of following files and folders
 * <b>Dataset</b>: 
     - Header and Image file (subfebformosat2)
     - Training set of 6 classes
-* <b>Results</b><br>
+* <b>Results</b>: Contain image files<br>
 ## Results
 
 ![htr](./Results/Hard_classified.PNG)<br>
