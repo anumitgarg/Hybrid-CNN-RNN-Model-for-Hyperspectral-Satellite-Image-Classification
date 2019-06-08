@@ -19,7 +19,7 @@ In the following model we use hybrid CNN- RNN model for classification of each p
 * <b>Matplotlib</b>: Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. 
 
 ### Description 
-The repository consists of
+The repository consists of following files and folders
 * <b>Notebooks</b>: It consists of two jupyter notebooks
     - Hybrid CNN- RNN Model
     - Classification Tool (Hybrid CNN- RNN Model)
@@ -28,3 +28,11 @@ The repository consists of
     - Header and Image file (subfebformosat2)
     - Training set of 6 classes
 * <b>Results</b>
+
+### Results:
+
+![htr](./Results/Hard_classified.PNG)<br>
+<b>HARD CLASSIFICATION</b>
+<br><br>
+![htr](./Results/Soft_classification1.PNG)<br>
+<b>SOFT CLASSIFICATION</b>
