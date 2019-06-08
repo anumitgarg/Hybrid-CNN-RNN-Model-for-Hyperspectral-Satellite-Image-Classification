@@ -20,11 +20,11 @@ In the following model we use hybrid CNN- RNN model for classification of each p
 
 ### Description 
 The repository consists of
-* Notebooks: It consists of two jupyter notebooks
+* <b>Notebooks</b>: It consists of two jupyter notebooks
     - Hybrid CNN- RNN Model
     - Classification Tool (Hybrid CNN- RNN Model)
-* utils.py: Contains the necessary functions used in the notebook
-* Dataset: 
+* <b>utils.py</b>: Contains the necessary functions used in the notebook
+* <b>Dataset</b>: 
     - Header and Image file (subfebformosat2)
     - Training set of 6 classes
-* Results
+* <b>Results</b>
