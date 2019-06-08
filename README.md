@@ -8,7 +8,7 @@ In the following model we use hybrid CNN- RNN model for classification of each p
 <b>1.) HARD CLASSIFICATION :</b> A pixel strictly belongs to a single class. <br>
 <b>2.) SOFT CLASSIFICATION :</b> A pixel may belong to more than one class based on its membership value. <br><br>
 
-### Libraries used 
+## Libraries used 
 * <b>Keras</b>: Keras is an open-source neural-network library written in Python. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.
 * <b>Tensorflow</b>: TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.
 * <b>GDAL</b>: The Geospatial Data Abstraction Library is a computer software library for reading and writing raster and vector geospatial data formats, and is released under the permissive X/MIT style free software license by the Open Source Geospatial Foundation.
@@ -17,8 +17,8 @@ In the following model we use hybrid CNN- RNN model for classification of each p
 * <b>Pickle</b>: The pickle module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.
 * <b>Numpy</b>: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 * <b>Matplotlib</b>: Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. 
-
-### Description 
+<br>
+## Description
 The repository consists of following files and folders
 * <b>Notebooks</b>: It consists of two jupyter notebooks
     - Hybrid CNN- RNN Model
@@ -28,11 +28,10 @@ The repository consists of following files and folders
     - Header and Image file (subfebformosat2)
     - Training set of 6 classes
 * <b>Results</b>
-
-### Results:
-
+<br>
+## Results
 ![htr](./Results/Hard_classified.PNG)<br>
 <b>HARD CLASSIFICATION</b>
-<br><br>
+<br><br><br>
 ![htr](./Results/Soft_classification1.PNG)<br>
 <b>SOFT CLASSIFICATION</b>
