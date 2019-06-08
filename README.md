@@ -16,8 +16,7 @@ In the following model we use hybrid CNN- RNN model for classification of each p
 * <b>Tkinter</b>: Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. 
 * <b>Pickle</b>: The pickle module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.
 * <b>Numpy</b>: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
-* <b>Matplotlib</b>: Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. 
-<br>
+* <b>Matplotlib</b>: Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. <br>
 ## Description
 The repository consists of following files and folders
 * <b>Notebooks</b>: It consists of two jupyter notebooks
@@ -27,9 +26,9 @@ The repository consists of following files and folders
 * <b>Dataset</b>: 
     - Header and Image file (subfebformosat2)
     - Training set of 6 classes
-* <b>Results</b>
-<br>
+* <b>Results</b><br>
 ## Results
+
 ![htr](./Results/Hard_classified.PNG)<br>
 <b>HARD CLASSIFICATION</b>
 <br><br><br>
